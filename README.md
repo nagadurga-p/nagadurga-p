@@ -5,7 +5,6 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Background in **Mechanical Engineering**, transitioning into **Data Analytics & BI**
 - 💾 Strong in **SQL Server**, **data analysis**, and **reporting**
 - 📊 Interested in **business insights, dashboards, and data-driven decision making**
 - 🚀 Building a portfolio of **real-world SQL projects** on GitHub
