@@ -1,22 +1,60 @@
-<h1 align="center">Hi 👋, I'm Naga Durga Pantagolusula</h1>
-<h3 align="center">Aspiring Data Analyst | SQL Server | Power BI | Business Intelligence</h3>
+# Hi 👋, I'm Naga Durga Pantagolusula
+
+## MIS Specialist | MIS Reporting | Operations Analytics | Business Intelligence
+
+### 👨‍💻 About Me
+MIS Specialist with nearly 2 years of experience at Amazon, specializing in MIS reporting, operational analytics, dashboard automation, and KPI tracking. Experienced in working with large-scale operational datasets to support business reporting, performance monitoring, and data-driven decision-making across operations teams.
+
+Hands-on experience in building and maintaining self-serve dashboards, managing Weekly Business Reports (WBRs), automating reporting workflows, and performing ad hoc analysis for business stakeholders. Skilled in translating business requirements into scalable analytical solutions and delivering actionable insights in fast-paced operational environments.
+
+Strong exposure to Amazon tools and AWS ecosystem including AWS Redshift, AWS S3, Amazon QuickSight, and internal reporting frameworks. Comfortable working with cross-functional teams, handling reporting deep dives, identifying root causes, and improving reporting efficiency through automation.
 
 ---
 
-## 👨‍💻 About Me
+## 🛠️ Technical Skills
 
-- 💾 Strong in **SQL Server**, **data analysis**, and **reporting**
-- 📊 Interested in **business insights, dashboards, and data-driven decision making**
-- 🚀 Building a portfolio of **real-world SQL projects** on GitHub
+### 💻 Languages & Querying
+- SQL
+- Python
+- DAX
+- Power Query
 
----
+### ☁️ AWS & Amazon Tools
+- AWS Redshift
+- AWS S3
+- Amazon QuickSight
+- Internal Amazon Reporting Frameworks
 
-## 🛠️ Tech Stack
+### 📊 BI & Reporting
+- Power BI
+- Excel (Pivot Tables, Power Pivot, VLOOKUP, Advanced Reporting)
+- Tableau
 
-- 🗄️ **Databases:** SQL Server, MySQL  
-- 📊 **Analytics / BI:** Power BI, Excel  
-- 🧮 **Core Skills:** Data Cleaning, Joins, Aggregations, Window Functions, CTEs, EDA  
-- 🧰 **Other:** Git, GitHub
+### 📈 Analytics & Data Operations
+- MIS Reporting
+- KPI Tracking
+- Dashboard Automation
+- Exploratory Data Analysis (EDA)
+- Trend & Performance Analysis
+- Root Cause Analysis
+- Data Validation
+- Reporting Automation
+- Operational Analytics
+
+### 🤖 AI & Emerging Technologies
+- Experience using GenAI tools to improve reporting workflows, documentation, SQL development, and analytical productivity
+- Familiar with AI-assisted data analysis, reporting automation, and operational insight generation
+- Interested in applying AI-driven solutions to business intelligence and analytics workflows
+
+### ⚙️ Data Engineering & Workflow
+- ETL Pipelines
+- Data Extraction & Transformation
+- Large Dataset Handling
+- Reporting Workflow Optimization
+
+### 🧰 Other Tools
+- Git
+- GitHub
 
 ---
 
@@ -24,40 +62,31 @@
 
 ### 📊 Financial Sales Analysis – SQL Server
 End-to-end SQL EDA on a financial sales dataset:
-- Profitability by segment, product, and country  
-- Discount band impact & elasticity  
-- Time-series trends & anomaly detection  
-- Uses **CTEs, window functions, and KPI calculations**
 
-🔗 **Repo:** [financial-sales-analysis-sql-server](https://github.com/nagadurga-p/financial-sales-analysis-sql-server)
+- Profitability by segment, product, and country
+- Discount band impact & elasticity
+- Time-series trends & anomaly detection
+- Uses CTEs, window functions, and KPI calculations
+
+🔗 Repo: financial-sales-analysis-sql-server
 
 ---
 
 ### 🏬 Walmart Sales EDA – SQL
 Exploratory Data Analysis on Walmart sales data:
-- Sales trends by branch  
-- Product line performance  
-- Payment method preferences  
+
+- Sales trends by branch
+- Product line performance
+- Payment method preferences
 - Customer behavior insights
 
-🔗 **Repo:** [SQL-Project (Walmart Sales EDA)](https://github.com/nagadurga-p/SQL-Project)
+🔗 Repo: SQL-Project (Walmart Sales EDA)
 
 ---
 
-## 📈 What I’m Currently Doing
-
-- 🧑‍💻 Practicing **SQL interview-style questions** and business case queries  
-- 📊 Improving my **Power BI dashboards** and storytelling with data  
-- 📚 Learning more about **data warehousing, ETL, and reporting best practices**
-
----
-
-## 📫 Connect With Me
-
-- 🐙 **GitHub:** [@nagadurga-p](https://github.com/nagadurga-p)  
-- 💼 **LinkedIn:** [Naga Durga Pantagolusula](https://www.linkedin.com/in/naga-durga-pantagolusula)  
-- 📧 **Email:** [nagadurgapantagolusula@gmail.com](mailto:nagadurgapantagolusula@gmail.com)
-
----
-
-⭐️ *If you like my work, feel free to star my repositories or connect with me on LinkedIn. I’m always open to feedback, collaboration, and opportunities in Data Analytics / BI.*
+## 📈 Current Focus
+- Building scalable MIS and operational reporting solutions
+- Enhancing dashboard automation and KPI reporting workflows
+- Improving SQL optimization and analytical problem-solving skills
+- Learning advanced ETL, data engineering, and cloud-based reporting concepts
+- Developing real-world analytics and business intelligence projects
