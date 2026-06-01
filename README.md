@@ -1,9 +1,9 @@
 # Hi 👋, I'm Naga Durga Pantagolusula
 
-## MIS Specialist | MIS Reporting | Operations Analytics | Business Intelligence
+## Investigation Specialist | Reporting | Operations Analytics
 
 ### 👨‍💻 About Me
-MIS Specialist with nearly 2 years of experience at Amazon, specializing in MIS reporting, operational analytics, dashboard automation, and KPI tracking. Experienced in working with large-scale operational datasets to support business reporting, performance monitoring, and data-driven decision-making across operations teams.
+Investigation Specialist with nearly 2 years of experience at Amazon, specializing in operational analytics. Experienced in working with large-scale operational datasets to support business reporting, performance monitoring, and data-driven decision-making across operations teams.
 
 Hands-on experience in building and maintaining self-serve dashboards, managing Weekly Business Reports (WBRs), automating reporting workflows, and performing ad hoc analysis for business stakeholders. Skilled in translating business requirements into scalable analytical solutions and delivering actionable insights in fast-paced operational environments.
 
@@ -15,7 +15,6 @@ Strong exposure to Amazon tools and AWS ecosystem including AWS Redshift, AWS S3
 
 ### 💻 Languages & Querying
 - SQL
-- Python
 - DAX
 - Power Query
 
